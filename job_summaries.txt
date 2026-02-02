@@ -1,0 +1,5 @@
+Engineer Name: mPlane Serial Number: 5Reason for job: mechanical repair - engineDate of Maintenance Job: 2025-11-12Date of Previous Job: 2025-02-12Time spent on job: 1.25 hours
+Job outcome: grounded - do not flyDate of next scheduled service: 12/11/12Engineer Name: MPlane Serial Number: 5Reason for job: mechanical repair - engineDate of Maintenance Job: 2025-11-12Date of Previous Job: 2025-02-12Time spent on job: 1.25 hours
+Job outcome: grounded - do not flyDate of next scheduled service: 12/11/12Engineer Name: MichalPlane Serial Number: 505Reason for job: mechanical repair - engineDate of Maintenance Job: 2025-11-12Date of Previous Job: 2025-02-12Time spent on job: 4.55 hours
+Job outcome: return to serviceDate of next scheduled service: 12/11/12Engineer Name: MPlane Serial Number: 05Reason for job: mechanical repair - engineDate of Maintenance Job: 2025-11-12Date of Previous Job: 2025-02-12Time spent on job: 5.5 hours
+Job outcome: further action(S) requiredDate of next scheduled service: 12/11/12
