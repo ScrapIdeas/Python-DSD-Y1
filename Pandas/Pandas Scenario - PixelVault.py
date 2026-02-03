@@ -10,7 +10,7 @@ total_sale = df['total_sale'].max()
 
 Highest = df.iloc[df['quantity'].max()]
 
-averagegames = df['price'].mean()
+averagegames = df['price'].()
 
 print(df)
 print(AppearsMost)
